@@ -11,3 +11,5 @@ Instead of connecting remotely, there is a TestControl object to test the functi
 
 
 To run: Type make into terminal, then ./a2 to execute. Choose a number 0-5 to run tests.
+
+Note: Must have GCC complier with C++ atleast version 2011 installed.
